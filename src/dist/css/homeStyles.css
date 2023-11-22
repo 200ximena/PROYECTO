@@ -1,0 +1,30 @@
+.card1{
+    margin-left: 5%;
+    margin-top: 200px;
+}
+
+.card2{
+    margin-left: 35%;
+    margin-top: -400px;
+}
+
+.card3{
+    margin-left: 65%;
+    margin-top: -300px;
+}
+
+.c1{
+    align-items: center;
+    width: 1000px;
+    align-self: center;
+    display: flex;
+  justify-content: center;
+  margin-left: 25%;
+  
+}
+
+
+.con1{
+    margin-top: 500px;
+}
+
